@@ -10,4 +10,5 @@ Create react app, after build and send your friend's.**
 cd jump-scare
 npm i
 npm start
-npm run build```**
+npm run build
+```
